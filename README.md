@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupam Bhakta</h1>
 <h3 align="center">A software developer from India.</h3>
 
-- 🔭 I’m currently working on [Music Player Android App](https://github.com/rupambhakta/MusicPlayer-Android-App)
+- 🔭 I’m currently working on [Kid's Drawing app](https://github.com/rupambhakta/Kid-s-Drawing-App)
 
 - 🌱 I’m currently learning **Android**
 
