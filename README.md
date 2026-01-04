@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rupam Bhakta</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 Currently working on [Eventure](https://eventure-ten.vercel.app/)
+- 🔭 Currently working on Micronix System
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 🔑 React project [Password Manager](https://password-manager-nine-fawn.vercel.app/)
 
