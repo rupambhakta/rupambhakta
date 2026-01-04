@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupam Bhakta</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 Currently working on Micronix System
+- 🔭 Currently working on **Micronix System**
 
 - 🌱 I’m currently learning **React Native**
 
